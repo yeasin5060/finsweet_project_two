@@ -5,7 +5,8 @@ tailwind.config = {
           'navbg': '#0D0D0D',
           'maincolor':'#161722',
           'submaincolor':'#FFF',
-          'bgcolor':'#FFD2A4'
+          'bgcolor':'#FFD2A4',
+          'churchbg':'#F5F2F0',
         },
         maxWidth: {
           'container':'1280px',
@@ -15,6 +16,11 @@ tailwind.config = {
         },
         backgroundImage: {
           'banner': "url('images/image_bg_one.jpg')",
+          'minibg1': "url('images/image1.png')",
+          'minibg2': "url('images/image2.png')",
+          'minibg3': "url('images/image3.png')",
+          'minibg4': "url('images/image4.png')",
+          'linear':'linear-gradient(45deg,rgba(6, 6, 6, 1),rgba(0, 0, 0, 0.02))',
         },
         fontWeight: {
           thin: '100',
