@@ -21,6 +21,7 @@ tailwind.config = {
           'minibg3': "url('images/image3.png')",
           'minibg4': "url('images/image4.png')",
           'linear':'linear-gradient(45deg,rgba(6, 6, 6, 1),rgba(0, 0, 0, 0.02))',
+          'churchbg': "url('images/image_bg_three.jpg')",
         },
         fontWeight: {
           thin: '100',
