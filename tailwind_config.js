@@ -7,6 +7,7 @@ tailwind.config = {
           'submaincolor':'#FFF',
           'bgcolor':'#FFD2A4',
           'churchbg':'#F5F2F0',
+          'footcolor':'#161722'
         },
         maxWidth: {
           'container':'1280px',
@@ -38,6 +39,7 @@ tailwind.config = {
         },
         spacing: {
           'box': '80px 0 64px 80px',
+          'boxp':'48px 32px'
         }
       }
     }
