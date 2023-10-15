@@ -39,7 +39,12 @@ tailwind.config = {
         },
         spacing: {
           'box': '80px 0 64px 80px',
-          'boxp':'48px 32px'
+          'boxp':'48px 32px',
+          'bs':'15px 0 10px 15px ',
+          'sm':'20px 0 15px 20px',
+          'md':'30px 0 20px 30px',
+          'lg':'40px 0 30px 40px',
+          'xl':'60px 0 50px 60px'
         }
       }
     }
